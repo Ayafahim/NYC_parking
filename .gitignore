@@ -18,3 +18,7 @@ venv/
 # Test/coverage reports
 .coverage
 htmlcov/
+
+
+# Data
+data/nyc_parking_violations_sample.csv
