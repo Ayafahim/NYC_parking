@@ -22,3 +22,30 @@ htmlcov/
 
 # Data
 data/nyc_parking_violations_sample.csv
+data/fines_joined_with_neighborhoods.geojson
+data/fines_joined_with_neighborhoods.geojson
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# MacOS metadata
+.DS_Store
+
+# Test/coverage reports
+.coverage
+htmlcov/
+
+
+# Data
+data/nyc_parking_violations_sample.csv
