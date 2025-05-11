@@ -23,3 +23,4 @@ htmlcov/
 # Data
 data/nyc_parking_violations_sample.csv
 data/fines_joined_with_neighborhoods.geojson
+data/fines_joined_with_neighborhoods.geojson
