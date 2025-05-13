@@ -1,6 +1,6 @@
-Link to website [https://jawsen.github.io/](https://jawsen.github.io/)
-
 # 🚗 NYC Parking Violations — When and Where Do People Get Fined?
+
+🔗 **Link to website:** [https://jawsen.github.io/](https://jawsen.github.io/)
 
 This project explores **parking violations in New York City** using data analysis, visual storytelling, and machine learning. Our main narrative:
 
